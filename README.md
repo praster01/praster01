@@ -1,3 +1,3 @@
-### This is a repository managed by the Statistics Ground.
+### These are repositories managed by the Statistics Ground.
 
 https://www.facebook.com/groups/statground
